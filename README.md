@@ -1,4 +1,4 @@
-# Water Vapor Feedback and Climate
+# Using Physical Models to Understand Water Vapor Feedback and Its Impacts
 
 A 2024 summer theoretical and literature-based project on physical models of water-vapor feedback.
 
